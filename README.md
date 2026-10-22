@@ -1,3 +1,5 @@
+> **Moved.** On 2026-10-22 this repository merged into [SoFluffyOS/raccoon](https://github.com/SoFluffyOS/raccoon) at `native/raccoon_runner`, every commit kept. It is archived; issues and changes go there. Releases up to 0.3.0-pre.1 stay here; later runners are released there under `runner-v*` tags.
+
 # raccoon_runner
 
 [![CI](https://github.com/SoFluffyOS/raccoon_runner/actions/workflows/ci.yml/badge.svg)](https://github.com/SoFluffyOS/raccoon_runner/actions/workflows/ci.yml)
